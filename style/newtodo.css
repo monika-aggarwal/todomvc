@@ -1,0 +1,19 @@
+html,body{
+	margin:0;
+	padding:0;
+}
+#todolist li .destroy{
+	border:0;
+	background:none;
+	
+}
+#footer input {
+    appearance: button;
+    -moz-appearance: button;
+    -webkit-appearance: button;
+    text-decoration: none; 
+    font: menu; 
+    color: ButtonText;
+    display: inline-block; 
+    padding: 2px 8px;
+}

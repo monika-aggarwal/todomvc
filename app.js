@@ -1,4 +1,3 @@
 $(function(){
-	window.app.view.init();
-
+	window.app.View.init();
 });
